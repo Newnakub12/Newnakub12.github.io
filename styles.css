@@ -88,3 +88,10 @@ body {
   background-color: #0056b3; /* Darker blue */
   border-color: #0056b3;
 }
+
+body {
+  background-image: url('458107701_838862901350323_8780830967150023889_n.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
